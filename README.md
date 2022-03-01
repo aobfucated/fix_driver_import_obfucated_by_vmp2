@@ -1,14 +1,23 @@
 # fix_driver_import_obfucated_by_vmp2
 
-´óÖÂÔ­ÀíÈçÏÂ 
+å¤§è‡´åŸç†å¦‚ä¸‹ 
 ![img](https://github.com/aobfucated/fix_driver_import_obfucated_by_vmp2/blob/main/vmp%E5%AF%BC%E5%85%A5%E8%A1%A8%E6%B7%B7%E6%B7%86.png)
 
 
-ÓĞÁ½ÖÖË¼Â·  
-1.ÓÃunicornÒıÇæ·ÂÕæÔËĞĞÖ¸Áî  
-2.×Ô¼º½âÎöÖ¸Áî(Ïñ[ÕâÑù](https://github.com/helloobaby/wow-IAT-fix/blob/25b17616defe41abba306a2918b82d9dbc0b2ccf/OverwatchDumpFix/import_deobfuscation.cpp#L252))
+æœ‰ä¸¤ç§æ€è·¯  
+1.ç”¨unicornå¼•æ“ä»¿çœŸè¿è¡ŒæŒ‡ä»¤  
+2.è‡ªå·±è§£ææŒ‡ä»¤(åƒ[è¿™æ ·](https://github.com/helloobaby/wow-IAT-fix/blob/25b17616defe41abba306a2918b82d9dbc0b2ccf/OverwatchDumpFix/import_deobfuscation.cpp#L252))
 
 
-ÃüÁîĞĞ:
+å‘½ä»¤è¡Œ:
 
--sec=.abc  Ö¸¶¨»ìÏıÇø¶ÎÃû(Ä¬ÈÏ.vmp0,ÒòÎªÇø¶ÎÃû¿ÉÒÔËæÒâ¸ÄµÄ,ËùÒÔÌá¹©Õâ¸öÑ¡Ïî)
+-sec=.abc  æŒ‡å®šæ··æ·†åŒºæ®µå(é»˜è®¤.vmp0,å› ä¸ºåŒºæ®µåå¯ä»¥éšæ„æ”¹çš„,æ‰€ä»¥æä¾›è¿™ä¸ªé€‰é¡¹)
+
+
+#
+#
+#
+#
+
+
+### é¡¹ç›®æš‚æœªå®Œæˆ
